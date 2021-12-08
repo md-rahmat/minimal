@@ -2,17 +2,13 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
 # Mohammed Rahamathulla
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+An accomplished and global clinical systems operation professional with a proven ability to facilitate corporate success through effective leadership of initiatives, programs, projects, and teams. Known for expertise in dealing with electronic data acquisition and Interchange, external vendor management and oversight, innovative automation solutions, Data Ingestion Architect, project management, systems management, system testing, validations, solution development, process improvement, and documentation, metrics acquisition/reporting, and workflow automation.
+
+ An agile learner with a history of delivering innovative solutions to improve the process and deliver projects on time. Adept at managing global, multi-site teams, migrating data services, and coordinating application development, testing, and deployments. Excellent analytical and forecasting skills, experienced in deploying advanced healthcare solutions in critical and patient safety applications of global scope, namely large-scale worldwide clinical drug trials. 12.8+ years combined experience in varying positions within data management and operations oversight in the pharmaceutical industry.
+
+ Recognized for poised liaison and point-of-contact for operations and delivery with major clients including resource management, projections, developing metrics & KPI’s and the creation of unique processes customized to client needs. Significant problem-solving skills assist in approaching and solving challenging operating issues. Significant cross-functional training experience allows for a more informed and uniform knowledge base across multiple levels of organizations. A collegial and accessible management style fosters stronger employee/team engagement and improved morale.
 
 ## sample
 
